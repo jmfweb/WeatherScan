@@ -1,31 +1,38 @@
-<<<<<<< HEAD
 # WeatherScan
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
+WeatherScan is a web application built in Angular to view the current weather in your area.
 
-## Development server
+To run this project you must have Angular and Node properly installed on your system.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Project status
 
-## Code scaffolding
+🛠 In progress (unfinished).
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 1. Clone the Repository:
 
-## Build
+```shell
+git clone https://github.com/jmfweb/WeatherScan.git
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 2. Navigate to the project directory:
 
-## Running unit tests
+```shell
+cd your-workspace-name
+cd WeatherScan
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 3. Install the project dependencies:
 
-## Running end-to-end tests
+```shell
+npm install
+```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## 4. Run the project:
 
-## Further help
+```shell
+npm start
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-=======
-# WeatherScan
->>>>>>> 4878df4321187dbc4fd8ab30b24f811d1324cfa4
+## 6. Access the application:
+   
+Once the project is running, open a web browser and visit the local address provided in the console output.
